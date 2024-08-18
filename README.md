@@ -8,7 +8,7 @@ To run the code and work with these exercises, you need to have Eclipse Prolog i
 
 - [Eclipse Prolog Download](https://eclipseclp.org/)
 
-##Exercise Documentation
+## Exercise Documentation
 Each exercise file contains comments with the problem statement for that exercise. To view the problem statements:
 
 1)Open the Exercise Files:
