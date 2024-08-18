@@ -8,11 +8,11 @@ To run the code and work with these exercises, you need to have Eclipse Prolog i
 
 - [Eclipse Prolog Download](https://eclipseclp.org/)
 
-Exercise Documentation
+##Exercise Documentation
 Each exercise file contains comments with the problem statement for that exercise. To view the problem statements:
 
-Open the Exercise Files:
+1)Open the Exercise Files:
 Navigate to the relevant folder containing the exercises and open the .ecl files.
 
-Review the Comments:
+2)Review the Comments:
 The problem statements are documented in the comments at the top of each file. These comments describe the task to be solved by the Prolog code within that file.
